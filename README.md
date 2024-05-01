@@ -1,9 +1,10 @@
-![image](https://github.com/JeongMinbbbb/21.08-21.12_BigContest_1st/assets/130365764/3c716bde-2b3f-4888-b7a6-644eee7e91cb)# 21.08-21.12_BigContest_1st
+![image](https://github.com/JeongMinbbbb/21.08-21.12_BigContest_1st/assets/130365764/3c716bde-2b3f-4888-b7a6-644eee7e91cb)
+# 21.08-21.12_BigContest_1st
 - 2021 빅콘테스트 공모전 데이터분석분야 챔피언리그 스포츠테크
 - 데이터 분석 경진대회 최대 규모(전체 1307개 팀 참가)
 
 ### **분석 목적**
-주제 : KBO 배럴 정의 및 타자 성적 예측
+## 주제 : KBO 배럴 정의 및 타자 성적 예측
 
 - 목표 1 : 미국 리그에서 파생된 배럴 지표(좋은 타구의 생산 빈도)의 국내 도입 적합성 검토
 - 목표 2 : 한국형 배럴을 정의하고, 이를 활용하여 타자의 시즌 잔여 경기 성적을 예측
