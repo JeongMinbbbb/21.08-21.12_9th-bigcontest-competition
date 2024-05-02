@@ -24,7 +24,7 @@
    - 야구장의 비거리와 담장 높이를 계산하여 물리적인 가능성을 추가로 고려합니다.
      
     <p align="middle">
-      <img src="https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/fd70494b-d543-4952-ac4a-6acbe678a3d7" alt="image">
+      <img src="https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/7d9fe811-444f-4e64-ba47-d4a33cba58f7" alt="image">
     </p>
     
 2. **성적 예측 모델링**
