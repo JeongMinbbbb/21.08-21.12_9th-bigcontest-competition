@@ -14,13 +14,19 @@
 ### 분석 과정
 1. **한국형 배럴 지표 정의**
    - 기존 배럴 지표의 국내 도입 적합성을 검토합니다.
-     ![image](https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/8c79e809-d4be-472e-9c27-dd87a090d9e3)
+     
+   <p align="middle">
+     <img src="https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/8c79e809-d4be-472e-9c27-dd87a090d9e3" alt="image">
+   </p>
 
    - 8년치 데이터를 기반으로 두 리그 간의 타율 및 장타율 차이를 분석하여 한국형 배럴 지표에 반영합니다. 추정된 신뢰구간들이 공통적으로 포함하는 범위를 계산하고 그 범위의 중앙값 0.026을 타율 차이의 대표값으로 채택합니다.
    - 타율 0.526, 장타율 1.5를 한국형 배럴의 선별 기준으로 설정합니다.
    - 야구장의 비거리와 담장 높이를 계산하여 물리적인 가능성을 추가로 고려합니다.
-     ![image](https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/fd70494b-d543-4952-ac4a-6acbe678a3d7)
-
+     
+    <p align="middle">
+      <img src="https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/fd70494b-d543-4952-ac4a-6acbe678a3d7" alt="image">
+    </p>
+    
 2. **성적 예측 모델링**
    - 지수평활법을 활용하여 미래 시점의 잔여 경기를 대표하는 데이터셋을 생성합니다.
    - 최적의 변수를 선정하고, XGBoost와 Random Forest를 사용하여 기존 데이터를 학습합니다.
@@ -29,9 +35,10 @@
 3. **활용 방안**
    - 선수 예시를 들어 전략적 활용 방법(저평가 선수 발굴, 연봉 반영, 타순 반영 등)을 제안합니다.
    - 예시: 저평가된 선수 발굴 (노시환과 페르난데스 비교)
-      <p align="left">
-        <img src="https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/07953fb7-5f02-4326-aa27-1f061c8c70a2" alt="image">
-      </p>
+     
+   <p align="middle">
+     <img src="https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/07953fb7-5f02-4326-aa27-1f061c8c70a2" alt="image">
+   </p>
 
 ### 분석 결과 및 성과
 - 타자 성적 예측 모델의 성능:
