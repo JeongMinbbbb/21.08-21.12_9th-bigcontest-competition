@@ -27,7 +27,6 @@
 3. **활용 방안**
    - 선수 예시를 들어 전략적 활용 방법(저평가 선수 발굴, 연봉 반영, 타순 반영 등)을 제안합니다.
    - 예시: 저평가된 선수 발굴 (노시환과 페르난데스 비교)
-     ![image](https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/07953fb7-5f02-4326-aa27-1f061c8c70a2)
       <p align="left">
         <img src="https://github.com/JeongMinbbbb/21.08-21.12_BigContest_9th/assets/130365764/07953fb7-5f02-4326-aa27-1f061c8c70a2" alt="image">
       </p>
